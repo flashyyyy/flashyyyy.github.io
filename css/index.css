@@ -1,0 +1,197 @@
+.version.index /* version checker */
+{
+	color: #0000F5;
+	background-color: #866DCD;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 0px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u77
+{
+	z-index: 2;
+	min-height: 63px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 0px;
+}
+
+#u77-bw
+{
+	z-index: 2;
+}
+
+#u83-4
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	position: fixed;
+	top: 73px;
+	left: 50%;
+	margin-left: -411px;
+}
+
+#buttonu79
+{
+	z-index: 3;
+	width: 187px;
+	border-color: #787878;
+	background-color: #CACACA;
+	position: fixed;
+	top: 253px;
+	left: 50%;
+	margin-left: -94px;
+}
+
+#buttonu79:hover
+{
+	-pie-box-shadow: 0px 0px 16px 4px #FFFFFF;
+	box-shadow: 0px 0px 16px rgba(255,255,255,0.5),0px 0px 16px rgba(255,255,255,0.5);
+	width: 187px;
+	min-height: 0px;
+	margin: 0px 0px 0px -94px;
+}
+
+#u80-6
+{
+	z-index: 4;
+	width: 119px;
+	min-height: 39px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 34px;
+}
+
+#buttonu79:hover #u80-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 39px;
+	width: 119px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu79:hover #u80-6 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u80,#u80-3
+{
+	color: #000000;
+}
+
+#u80-4
+{
+	color: #3C3C3C;
+}
+
+#buttonu87
+{
+	z-index: 14;
+	width: 187px;
+	border-color: #787878;
+	background-color: #CACACA;
+	position: fixed;
+	top: 323px;
+	left: 50%;
+	margin-left: -94px;
+}
+
+#buttonu87:hover
+{
+	-pie-box-shadow: 0px 0px 16px 4px #FFFFFF;
+	box-shadow: 0px 0px 16px rgba(255,255,255,0.5),0px 0px 16px rgba(255,255,255,0.5);
+	width: 187px;
+	min-height: 0px;
+	margin: 0px 0px 0px -94px;
+}
+
+#buttonu79.ButtonSelected,#buttonu87.ButtonSelected
+{
+	-pie-box-shadow: none;
+	box-shadow: none;
+	width: 187px;
+	min-height: 0px;
+	margin: 0px 0px 0px -94px;
+}
+
+#u88-6
+{
+	z-index: 15;
+	width: 119px;
+	min-height: 39px;
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 34px;
+}
+
+#buttonu79.ButtonSelected #u80-6,#buttonu87:hover #u88-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 39px;
+	width: 119px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu87.ButtonSelected #u88-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 39px;
+	width: 119px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu87:hover #u88-6 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#buttonu87.ButtonSelected #u88-6 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+

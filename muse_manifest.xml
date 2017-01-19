@@ -1,0 +1,18 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="flasy.xyz" resolutions="1x" timestamp="1484837566156">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4119227853" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="rapee.mp4" crc="170377801" seo="true" mt="1484837280000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u83-4.png" crc="39044822" ref="index"/>
+  </folder>
+  <file name="index.html" crc="244909414" seo="true" mt="1484837500545" redirect="true"/>
+</manifest>
